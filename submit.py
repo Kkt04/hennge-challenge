@@ -9,8 +9,8 @@ import json
 import ssl
 
 
-GITHUB_URL = "https://gist.github.com/Kkt04/c34b5eba2a12a2029f4f808a80ac312c"
-EMAIL      = "kalash.k23csai@nst.rishihood.edu.in"
+GITHUB_URL = "https://gist.github.com/YOUR_ACCOUNT/YOUR_GIST_ID"
+EMAIL      = "your@email.com"
 LANGUAGE   = "python"   
 
 
